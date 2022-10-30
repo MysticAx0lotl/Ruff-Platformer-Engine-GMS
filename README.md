@@ -3,7 +3,7 @@ A port of a Scratch project to Gamemaker Studio, just to show that it can be don
 
 ## What is this?
 
-This is a physics engine demo, originally built in Scratch and based off of a old book I have. The original project can be found [here](https://scratch.mit.edu/projects/114215238).
+This is a platformer engine demo, originally built in Scratch and based off of a old book I have. The original project can be found [here](https://scratch.mit.edu/projects/114215238).
 
 ## If Gamemaker already has built-in physics, why does this exist?
 
