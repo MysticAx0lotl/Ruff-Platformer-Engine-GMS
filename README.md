@@ -9,7 +9,7 @@ This is a physics engine demo, originally built in Scratch and based off of a ol
 
 I mainly ported this specific project because of its relative simplicity and readability as opposed to some of the other projects I made while I was still active on Scratch.
 
-## How long did it take you/how hard was this to port
+## How long did it take you/how hard was this to port?
 
 To be honest, it only took around an hour to do the initial port. However, it was buggy as all heck, due to just how _different_ Scratch and Gamemaker are. The biggest difference between the two engines was how GMS and Scratch handle Y-coordinates.
 - In Scratch, Y coordinates behave exactly as you'd expect. If you increase the sprite's Y-position, it moves up on the screen
